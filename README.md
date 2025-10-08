@@ -178,13 +178,17 @@ but differs by emphasizing *lazy evaluation, conditional dependency, deferred co
 
 ---
 
-## Open Questions
+##Open Questions and Implications
 
-* What defines the global “information ledger”?
-* Can the Born rule be derived formally from an informational-balance principle?
-* How deep does the conditional-dependency graph extend — could it span across time itself?
-* Is entropy truly the minimal cost of maintaining coherence, or a higher-order emergent statistic?
-* Could conscious observation correspond to high-entropy, high-bandwidth nodes in the computational network?
+DCI raises several questions and implications that serve as a reference for ongoing exploration:
+Global Coherence: How is the universal “information ledger” structured, and how far can conditional dependencies extend in space and time?
+Measurement & Deferred Commitment: What precisely triggers a deferred state to resolve? How does this interact with entanglement and nonlocal correlations?
+Randomness: Can apparent randomness be formalized mathematically while reproducing the Born rule? Are there conditions where global balance could produce observable deviations?
+Decoherence & Classicality: At what threshold does a deferred computation become effectively classical, and how does this emerge from microscopic events?
+Consciousness: What role, if any, do conscious observers play in deferred computation? Are they simply high-bandwidth nodes or do they influence outcomes?
+Philosophical Implications: Does DCI imply global determinism? How does it reconcile with free will? Can it provide new perspectives on causality, probability, or the nature of time?
+Testability: Are there experiments or thought experiments that could distinguish DCI predictions from standard QM or falsify aspects of the interpretation?
+These questions provide a structured foundation for refining DCI and guiding discussion.
 
 ---
 
