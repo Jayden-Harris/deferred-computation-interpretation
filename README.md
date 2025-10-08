@@ -28,8 +28,8 @@ what if “collapse” is not a mysterious physical process, but a **necessary r
 ## Core Premise
 
 Reality functions as an ongoing computation.
-Quantum states represent **deferred data structures** — compact descriptions of many possible outcomes that remain unrendered until an observation (a “query”) forces evaluation.
-Measurement is the act of **committing one outcome** to the shared “memory” of the universe, updating the global record in a way that preserves informational balance.
+Quantum states represent **deferred data structures** — compact descriptions of many possible outcomes that remain unrendered until an observation (a “query”) or logical dependency forces evaluation.
+Measurement is the act of **synchronizing an observer** with a result that has already been resolved by the universe’s hidden computational architecture, ensuring consistency with the global ledger.
 
 ---
 
@@ -44,43 +44,40 @@ Measurement is the act of **committing one outcome** to the shared “memory” 
 
    * Observation requests data from the system.
    * The system resolves one value consistent with the global information ledger and synchronization rules.
+   * Observers do not cause collapse; they merely align with results already resolved by the underlying architecture.
 
 3. **Randomness & Global Balance**
 
    * What appears as inherent randomness is the system’s *balancing algorithm*.
-   * Each local event must contribute to global statistical equilibrium (the Born rule).
-   * Random selection ensures that, across many trials, outcome frequencies maintain the conservation of information and energy.
-   * Randomness is therefore not chaos, but the *mechanism of balance* in a distributed computation.
+   * Local probabilities emerge from **contextual determinacy**: every event must contribute to global statistical equilibrium (the Born rule).
+   * Random selection is apparent, not intrinsic — it reflects the observer’s limited access to the full computational state.
 
 4. **Conditional Dependency Hypothesis**
 
    * Quantum events may depend on **conditional relationships** embedded within the larger computational structure.
-   * Each “collapse” could correspond to the evaluation of a conditional statement whose inputs are distributed across inaccessible regions of the global state.
-   * To internal observers, lacking access to those dependencies, the outcome appears random.
-   * To the system itself, each resolution follows a consistent logic that ensures global coherence.
-   * What we call “quantum randomness” may thus reflect **contextual determinacy** — outcomes conditioned on other outcomes across the universe’s hidden informational graph.
+   * Each “collapse” corresponds to the evaluation of a conditional statement whose inputs may span inaccessible regions of the global state.
+   * This explains why outcomes appear random locally while remaining globally coherent.
 
 5. **Schrödinger Evolution and Local Probabilities**
 
-   * The Schrödinger equation describes the evolution of a quantum state as a **local deferred representation** within the global system.
-   * Probabilities arise not from intrinsic randomness, but from the requirement that each local event fit into **global equilibrium**.
-   * Apparent randomness reflects our limited perspective: local observations sample from possibilities constrained by global algorithms that enforce statistical balance.
-   * In this way, Schrödinger evolution provides a *probabilistic window* into the system, showing how small subsystems evolve in accordance with the global computational ledger.
+   * Schrödinger evolution describes a quantum state as a **local deferred representation** evolving according to accessible information.
+   * Probabilities arise because local outcomes must fit into **global equilibrium**, not from intrinsic randomness.
+   * DCI is conceptual, but this mechanism is expected to reproduce the statistical predictions of standard quantum mechanics.
 
 6. **Deferred Commitment: When the Global State Resolves**
 
    * The global state commits to definite values **only when necessary**.
-   * “Necessity” is defined by interactions, dependencies, or observations that require a resolved outcome.
+   * Necessity arises from interactions, logical dependencies, or decoherence events that require a resolved outcome.
    * Until that point, states remain **deferred**, encoding multiple potentialities.
-   * Measurement does not cause collapse; it only synchronizes the observer with a result already resolved by the universe’s hidden computational architecture.
-   * This principle naturally explains classical stability: the universe only resolves what must exist coherently for global balance, conserving computational and informational resources.
+   * Measurement is thus **synchronization**, not causation — the observer accesses the outcome without initiating it.
 
 7. **Entropy as Computational Cost**
 
    * Rendering an outcome disperses phase information into the environment.
    * Entropy measures this cost: the informational overhead required to keep the universe coherent after an update.
-   * Every “collapse” increases entropy by spreading coherence into many microscopic configurations — the irreversible side-effect of definiteness.
-   * The Second Law of Thermodynamics and the Born rule thus reflect the same informational principle: the universe must stay balanced while expanding its descriptive detail.
+   * Every “collapse” increases entropy by spreading coherence into many microscopic configurations.
+   * This is an **informational, not necessarily thermodynamic, cost**.
+   * The Second Law of Thermodynamics and the Born rule can be viewed as emergent principles reflecting the need to maintain coherence while expanding descriptive detail.
 
 8. **Emergent Classicality**
 
@@ -90,20 +87,20 @@ Measurement is the act of **committing one outcome** to the shared “memory” 
 9. **Free Will & Agency**
 
    * Observers are active nodes within the computation.
-   * Their choices determine *which* deferred computations are requested, but all must remain consistent with global informational equilibrium.
+   * Their choices determine *which* deferred computations are requested, but all resolutions remain consistent with global informational equilibrium.
 
 ---
 
 ## Conceptual Mapping
 
-| Quantum Concept     | Computational Analogue | Interpretive Meaning          |
-| ------------------- | ---------------------- | ----------------------------- |
-| Wavefunction        | Stored data structure  | Encoded potentials            |
-| Measurement         | Write operation        | Selection of concrete outcome |
-| Decoherence         | Data synchronization   | Agreement among observers     |
-| Entropy Increase    | Processing cost        | Price of definiteness         |
-| Born Rule           | Normalization protocol | Statistical equilibrium       |
-| Apparent Randomness | Hidden conditionals    | Contextual determinacy        |
+| Quantum Concept     | Computational Analogue | Interpretive Meaning                           |
+| ------------------- | ---------------------- | ---------------------------------------------- |
+| Wavefunction        | Stored data structure  | Encoded potentials                             |
+| Measurement         | Write operation        | Observer synchronization with resolved outcome |
+| Decoherence         | Data synchronization   | Agreement among observers                      |
+| Entropy Increase    | Processing cost        | Informational price of definiteness            |
+| Born Rule           | Normalization protocol | Statistical equilibrium                        |
+| Apparent Randomness | Hidden conditionals    | Contextual determinacy                         |
 
 ---
 
@@ -138,7 +135,7 @@ DCI intersects with ideas from:
 * **Relational QM** – properties exist only through interaction
 * **Digital Physics** – universe as discrete information process
 
-but differs by emphasizing *lazy evaluation, conditional dependency, deferred commitment, entropy as cost,* and *randomness as global balance.*
+but differs by emphasizing *lazy evaluation, conditional dependency, deferred commitment, entropy as cost,* and *randomness as contextual determinacy*.
 
 ---
 
