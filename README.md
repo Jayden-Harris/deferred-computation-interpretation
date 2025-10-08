@@ -10,7 +10,7 @@
 The **Deferred-Computation Interpretation (DCI)** is a speculative philosophical framework that re-imagines quantum mechanics as the *lazy evaluation* of a universal computation.  
 It does **not** claim experimental proof. Instead, it offers a conceptual bridge between physics, information theory, and computational metaphors — a way to think about how an informational universe might appear classical, yet operate quantum-mechanically beneath the surface.
 
-DCI expands on ideas introduced in *[Simulation Theory — Reality as Computation](../)* and proposes a language for viewing reality as an adaptive, self-balancing program.
+DCI expands on ideas introduced in *[Simulation Theory — Reality as Computation](https://github.com/Jayden-Harris/deferred-computation-interpretation/raw/refs/heads/main/Simulation%20Theory_%20Reality%20as%20Computation-2.docx)* and proposes a language for viewing reality as an adaptive, self-balancing program.
 
 ---
 
