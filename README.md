@@ -49,17 +49,24 @@ Measurement is the act of **committing one outcome** to the shared “memory” 
    - Random selection ensures that, across many trials, outcome frequencies maintain the conservation of information and energy.  
    - Randomness is therefore not chaos, but the *mechanism of balance* in a distributed computation.
 
-4. **Entropy as Computational Cost**  
+4. **Conditional Dependency Hypothesis**  
+   - Quantum events may depend on **conditional relationships** embedded within the larger computational structure.  
+   - Each “collapse” could correspond to the evaluation of a conditional statement whose inputs are distributed across inaccessible regions of the global state.  
+   - To internal observers, lacking access to those dependencies, the outcome appears random.  
+   - To the system itself, each resolution follows a consistent logic that ensures global coherence.  
+   - What we call “quantum randomness” may thus reflect **contextual determinacy** — outcomes conditioned on other outcomes across the universe’s hidden informational graph.
+
+5. **Entropy as Computational Cost**  
    - Rendering an outcome disperses phase information into the environment.  
    - Entropy measures this cost: the informational overhead required to keep the universe coherent after an update.  
    - Every “collapse” increases entropy by spreading coherence into many microscopic configurations — the irreversible side-effect of definiteness.  
    - The Second Law of Thermodynamics and the Born rule thus reflect the same informational principle: the universe must stay balanced while expanding its descriptive detail.
 
-5. **Emergent Classicality**  
+6. **Emergent Classicality**  
    - The macroscopic world is the accumulated record of resolved events.  
    - Continuous synchronization (decoherence) locks those results into shared memory, yielding a consistent, classical reality.
 
-6. **Free Will & Agency**  
+7. **Free Will & Agency**  
    - Observers are active nodes within the computation.  
    - Their choices determine *which* deferred computations are requested, but all must remain consistent with global informational equilibrium.
 
@@ -74,6 +81,7 @@ Measurement is the act of **committing one outcome** to the shared “memory” 
 | Decoherence | Data synchronization | Agreement among observers |
 | Entropy Increase | Processing cost | Price of definiteness |
 | Born Rule | Normalization protocol | Statistical equilibrium |
+| Apparent Randomness | Hidden conditionals | Contextual determinacy |
 
 ---
 
@@ -108,7 +116,7 @@ DCI intersects with ideas from:
 - **Relational QM** – properties exist only through interaction  
 - **Digital Physics** – universe as discrete information process  
 
-but differs by emphasizing *lazy evaluation, entropy as cost,* and *randomness as global balance.*
+but differs by emphasizing *lazy evaluation, conditional dependency, entropy as cost,* and *randomness as global balance.*
 
 ---
 
@@ -116,6 +124,7 @@ but differs by emphasizing *lazy evaluation, entropy as cost,* and *randomness a
 
 - What defines the global “information ledger”?  
 - Can the Born rule be derived formally from an informational-balance principle?  
+- How deep does the conditional-dependency graph extend — could it span across time itself?  
 - Is entropy truly the minimal cost of maintaining coherence, or a higher-order emergent statistic?  
 - Could conscious observation correspond to high-entropy, high-bandwidth nodes in the computational network?
 
