@@ -98,9 +98,14 @@ The **quantum eraser** demonstrates how deferred computation and conditional dep
 ### Setup
 
 * A photon passes through a **double slit**, creating a superposition of paths:
-  [ |\psi\rangle = |\text{slit A}\rangle + |\text{slit B}\rangle ]
+
+$$
+|\psi\rangle = |\text{slit A}\rangle + |\text{slit B}\rangle
+$$
+
 * Without which-path information, the **interference pattern** emerges.
 * If which-path information is stored, interference disappears.
+
 
 ### DCI Interpretation
 
