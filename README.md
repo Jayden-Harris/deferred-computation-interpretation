@@ -67,19 +67,27 @@ Measurement is the act of **committing one outcome** to the shared “memory” 
    * Apparent randomness reflects our limited perspective: local observations sample from possibilities constrained by global algorithms that enforce statistical balance.
    * In this way, Schrödinger evolution provides a *probabilistic window* into the system, showing how small subsystems evolve in accordance with the global computational ledger.
 
-6. **Entropy as Computational Cost**
+6. **Deferred Commitment: When the Global State Resolves**
+
+   * The global state commits to definite values **only when necessary**.
+   * “Necessity” is defined by interactions, dependencies, or observations that require a resolved outcome.
+   * Until that point, states remain **deferred**, encoding multiple potentialities.
+   * Measurement does not cause collapse; it only synchronizes the observer with a result already resolved by the universe’s hidden computational architecture.
+   * This principle naturally explains classical stability: the universe only resolves what must exist coherently for global balance, conserving computational and informational resources.
+
+7. **Entropy as Computational Cost**
 
    * Rendering an outcome disperses phase information into the environment.
    * Entropy measures this cost: the informational overhead required to keep the universe coherent after an update.
    * Every “collapse” increases entropy by spreading coherence into many microscopic configurations — the irreversible side-effect of definiteness.
    * The Second Law of Thermodynamics and the Born rule thus reflect the same informational principle: the universe must stay balanced while expanding its descriptive detail.
 
-7. **Emergent Classicality**
+8. **Emergent Classicality**
 
    * The macroscopic world is the accumulated record of resolved events.
    * Continuous synchronization (decoherence) locks those results into shared memory, yielding a consistent, classical reality.
 
-8. **Free Will & Agency**
+9. **Free Will & Agency**
 
    * Observers are active nodes within the computation.
    * Their choices determine *which* deferred computations are requested, but all must remain consistent with global informational equilibrium.
@@ -130,7 +138,7 @@ DCI intersects with ideas from:
 * **Relational QM** – properties exist only through interaction
 * **Digital Physics** – universe as discrete information process
 
-but differs by emphasizing *lazy evaluation, conditional dependency, entropy as cost,* and *randomness as global balance.*
+but differs by emphasizing *lazy evaluation, conditional dependency, deferred commitment, entropy as cost,* and *randomness as global balance.*
 
 ---
 
