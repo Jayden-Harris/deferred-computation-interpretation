@@ -1,59 +1,67 @@
 # The Deferred-Computation Interpretation (DCI) of Quantum Mechanics
 
-> *“Reality is computation deferred until necessity demands resolution.”*  
-> — Jayden E. L. Harris
+> *"Reality is computation deferred until necessity demands resolution."*  
+> — **Jayden E. L. Harris**
 
 ---
 
 ## Overview
 
-**The Deferred-Computation Interpretation (DCI)** is a speculative framework that treats the quantum layer of reality as a **computational substrate** in which events are evaluated only when required for consistency.  
-It does not claim empirical proof; it offers a **conceptual bridge** between quantum theory, information theory, and computational metaphors.
+The **Deferred-Computation Interpretation (DCI)** is a speculative philosophical framework that re-imagines quantum mechanics as the *lazy evaluation* of a universal computation.  
+It does **not** claim experimental proof. Instead, it offers a conceptual bridge between physics, information theory, and computational metaphors — a way to think about how an informational universe might appear classical, yet operate quantum-mechanically beneath the surface.
 
-DCI extends ideas explored in *[Simulation Theory — Reality as Computation](../)* and proposes a coherent vocabulary for viewing quantum behaviour as *lazy evaluation within a universal program.*
+DCI expands on ideas introduced in *[Simulation Theory — Reality as Computation](../)* and proposes a language for viewing reality as an adaptive, self-balancing program.
+
+---
+
+## Motivation
+
+Quantum mechanics describes nature with extraordinary precision, yet its **measurement problem** remains unresolved.  
+Why do definite outcomes arise from probabilistic superpositions?  
+Why does the world appear classical when its foundation seems random?
+
+DCI reframes these questions computationally:  
+what if “collapse” is not a mysterious physical process, but a **necessary rendering operation** that keeps the informational system coherent and balanced?
 
 ---
 
 ## Core Premise
 
-Reality can be modelled as an ongoing computation.  
-Quantum states represent **deferred data structures**—compact superpositions of potential outcomes that remain unrendered until observation or interaction demands a concrete value.  
-Measurement corresponds to a **write operation** that commits one outcome to the shared “memory” of the universe.
+Reality functions as an ongoing computation.  
+Quantum states represent **deferred data structures** — compact descriptions of many possible outcomes that remain unrendered until an observation (a “query”) forces evaluation.  
+Measurement is the act of **committing one outcome** to the shared “memory” of the universe, updating the global record in a way that preserves informational balance.
 
 ---
 
 ## Postulates
 
 1. **Deferred Representation (Superposition)**  
-   A quantum system encodes multiple potential states, analogous to a variable held in memory whose value is not yet computed.
+   - A quantum state encodes multiple potential results, like a variable held in memory whose value hasn’t yet been computed.  
+   - Amplitudes express computational weights — relative ease or likelihood of each potential resolution.
 
 2. **Triggering Event (Measurement)**  
-   Observation acts as a request for data; the system resolves one outcome consistent with global informational balance.
+   - Observation requests data from the system.  
+   - The system resolves one value consistent with the global information ledger and synchronization rules.
 
-3. **Entropy as Rendering Cost**  
-   Each resolution disperses phase information into the environment.  
-   Entropy measures the computational cost of maintaining coherence after an event.
+3. **Randomness & Global Balance**  
+   - What appears as inherent randomness is the system’s *balancing algorithm*.  
+   - Each local event must contribute to global statistical equilibrium (the Born rule).  
+   - Random selection ensures that, across many trials, outcome frequencies maintain the conservation of information and energy.  
+   - Randomness is therefore not chaos, but the *mechanism of balance* in a distributed computation.
 
-4. **Born Rule as Equilibrium Constraint**  
-   Apparent randomness reflects a balancing protocol ensuring statistical equilibrium across many trials.
+4. **Entropy as Computational Cost**  
+   - Rendering an outcome disperses phase information into the environment.  
+   - Entropy measures this cost: the informational overhead required to keep the universe coherent after an update.  
+   - Every “collapse” increases entropy by spreading coherence into many microscopic configurations — the irreversible side-effect of definiteness.  
+   - The Second Law of Thermodynamics and the Born rule thus reflect the same informational principle: the universe must stay balanced while expanding its descriptive detail.
 
 5. **Emergent Classicality**  
-   Macroscopic stability arises from continuous synchronization (decoherence) of locally rendered results—reality’s shared database.
+   - The macroscopic world is the accumulated record of resolved events.  
+   - Continuous synchronization (decoherence) locks those results into shared memory, yielding a consistent, classical reality.
 
----
-
-## Randomness, Balance, and Global Entropy
-
-In conventional quantum mechanics, measurement outcomes appear intrinsically random.
-Within the Deferred-Computation Interpretation (DCI) this apparent randomness is re-cast as an emergent balancing process that keeps the global informational system consistent.
-Each quantum event is a commit operation—one small write to the shared record of reality.
-Every commit must preserve overall normalization (the Born rule) and maintain the long-term statistical harmony of the system.
-Because no local process has access to global state information, the system resolves outcomes using stochastic selection that, across many events, produces the equilibrium demanded by the conservation of information and energy.
-In this sense:
-Randomness is not disorder, but the visible surface of a deeper self-balancing algorithm.
-Entropy measures the computational cost of that balance: each local resolution disperses phase information into the environment, increasing the number of microscopic configurations consistent with the new global record.
-Over time, these distributed adjustments give rise to the macroscopic laws of thermodynamics and the classical stability of the world we observe.
-Thus, the Second Law of Thermodynamics and the Born rule are seen as two expressions of the same informational principle—the universe’s ongoing requirement to conserve coherence while expanding its descriptive detail.
+6. **Free Will & Agency**  
+   - Observers are active nodes within the computation.  
+   - Their choices determine *which* deferred computations are requested, but all must remain consistent with global informational equilibrium.
 
 ---
 
@@ -69,30 +77,53 @@ Thus, the Second Law of Thermodynamics and the Born rule are seen as two express
 
 ---
 
+## Dimensional Architecture
+
+Dimensions can be viewed as **computational permissions** — independent variables that define how information updates within the system.
+
+- **Space** describes how many updates can occur concurrently.  
+- **Time** orders those updates — the universe’s snapshot mechanism.  
+- The apparent “flow” of time arises from sequential state commits; to an external observer (a hypothetical host), all snapshots would exist simultaneously.
+
+Each additional dimension increases computational load.  
+Our perceived 3 + 1-dimensional reality may simply be the optimal balance between richness of information and the system’s finite bandwidth.
+
+---
+
 ## Philosophical Character
 
 - **Ontological stance:** informational realism / neutral monism  
-- **Epistemic stance:** participatory—observers are active processes within the computation  
-- **Testability:** conceptual coherence, not empirical prediction  
-- **Goal:** a language that unites physics, computation, and consciousness under a single interpretive lens
+- **Epistemic stance:** participatory — observers are processes within the computation  
+- **Testability:** conceptual coherence rather than empirical prediction  
+- **Goal:** provide a unifying metaphor linking quantum behaviour, computation, and consciousness
 
 ---
 
 ## Relationship to Other Interpretations
 
 DCI intersects with ideas from:
-- **Copenhagen & QBism** – observation as information update  
+
+- **Copenhagen / QBism** – observation as information update  
 - **Many-Worlds** – parallel potential states, selectively rendered  
 - **Relational QM** – properties exist only through interaction  
-- **Digital Physics** – universe as discrete information process
+- **Digital Physics** – universe as discrete information process  
+
+but differs by emphasizing *lazy evaluation, entropy as cost,* and *randomness as global balance.*
+
+---
+
+## Open Questions
+
+- What defines the global “information ledger”?  
+- Can the Born rule be derived formally from an informational-balance principle?  
+- Is entropy truly the minimal cost of maintaining coherence, or a higher-order emergent statistic?  
+- Could conscious observation correspond to high-entropy, high-bandwidth nodes in the computational network?
 
 ---
 
 ## Citation
 
-If you reference or discuss this framework, please cite:
-
-> Harris, J. E. L. (2025). *The Deferred-Computation Interpretation of Quantum Mechanics.*  
+> **Harris, J. E. L. (2025).** *The Deferred-Computation Interpretation of Quantum Mechanics.*  
 > GitHub Repository: [link]  
 > Companion to *Simulation Theory — Reality as Computation.*
 
@@ -100,16 +131,16 @@ If you reference or discuss this framework, please cite:
 
 ## Disclaimer
 
-This interpretation is presented for philosophical and educational purposes.  
-It does not claim experimental validation or replacement of established physics.  
-Its aim is to encourage curiosity, interdisciplinary dialogue, and new ways of thinking about information, reality, and consciousness.
+DCI is presented for philosophical and educational exploration.  
+It is **not** a verified physical model and does not claim experimental validation.  
+Its purpose is to encourage interdisciplinary dialogue and new ways of thinking about information, balance, and existence.
 
 ---
 
 ## Author
 
 **Jayden E. L. Harris**  
-Independent researcher and writer exploring the intersection of physics, computation, and philosophy.  
-[GitHub](https://github.com/Jayden-Harris) • [Email / Contact optional]
+Independent researcher exploring the intersection of computation, physics, and philosophy.  
+[GitHub](https://github.com/Jayden-Harris)
 
 ---
