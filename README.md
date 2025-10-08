@@ -42,6 +42,21 @@ Measurement corresponds to a **write operation** that commits one outcome to the
 
 ---
 
+## Randomness, Balance, and Global Entropy
+
+In conventional quantum mechanics, measurement outcomes appear intrinsically random.
+Within the Deferred-Computation Interpretation (DCI) this apparent randomness is re-cast as an emergent balancing process that keeps the global informational system consistent.
+Each quantum event is a commit operation—one small write to the shared record of reality.
+Every commit must preserve overall normalization (the Born rule) and maintain the long-term statistical harmony of the system.
+Because no local process has access to global state information, the system resolves outcomes using stochastic selection that, across many events, produces the equilibrium demanded by the conservation of information and energy.
+In this sense:
+Randomness is not disorder, but the visible surface of a deeper self-balancing algorithm.
+Entropy measures the computational cost of that balance: each local resolution disperses phase information into the environment, increasing the number of microscopic configurations consistent with the new global record.
+Over time, these distributed adjustments give rise to the macroscopic laws of thermodynamics and the classical stability of the world we observe.
+Thus, the Second Law of Thermodynamics and the Born rule are seen as two expressions of the same informational principle—the universe’s ongoing requirement to conserve coherence while expanding its descriptive detail.
+
+---
+
 ## Conceptual Mapping
 
 | Quantum Concept | Computational Analogue | Interpretive Meaning |
