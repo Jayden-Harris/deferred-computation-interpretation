@@ -91,6 +91,45 @@ Measurement is the act of **synchronizing an observer** with a result that has a
 
 ---
 
+## Quantum Eraser Experiment (DCI Perspective)
+
+The **quantum eraser** demonstrates how deferred computation and conditional dependencies can explain seemingly paradoxical quantum phenomena.
+
+### Setup
+
+* A photon passes through a **double slit**, creating a superposition of paths:
+  [ |\psi\rangle = |\text{slit A}\rangle + |\text{slit B}\rangle ]
+* Without which-path information, the **interference pattern** emerges.
+* If which-path information is stored, interference disappears.
+
+### DCI Interpretation
+
+1. **Deferred Representation:** The photon’s state is a **deferred variable** encoding all possible paths. No path is resolved until the system (global ledger) needs it.
+2. **Which-path Tag:** Measuring or recording the path adds metadata, forcing the deferred computation to resolve in a way consistent with the ledger. Interference disappears because the computation is now constrained.
+3. **Erasure:** If the which-path metadata is erased before final readout, the system restores the original superposition. The interference pattern reappears because the deferred computation is no longer constrained.
+
+### Programmatic Analogy
+
+```text
+photon_state = deferred { slit_A, slit_B }
+
+if which_path_recorded:
+    photon_state.metadata.add('which_path')
+    photon_state.resolve()  # no interference
+
+if erase_path_info:
+    photon_state.metadata.remove('which_path')
+    # superposition is restored → interference returns
+```
+
+### Insights
+
+* The interference pattern depends **not on time or retrocausality**, but on the **availability of information**.
+* Measurement does not “cause” collapse — the system resolves outcomes according to **global balance and conditional dependencies**.
+* The quantum eraser illustrates DCI principles: **deferred computation, hidden execution, and information-driven coherence**.
+
+---
+
 ## Conceptual Mapping
 
 | Quantum Concept     | Computational Analogue | Interpretive Meaning                           |
